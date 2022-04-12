@@ -1,63 +1,60 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# My_Defender
 
-# [PROJECT'S NAME]
-
-[Project's description]
-
-## How does it work?
-
-[Explain how this project is working]
+My_defender is a Tower-Defense project made at Epitech Technology in CSFML.  
 
 ## Getting Started
 
 ### Installation
 
-[Explain how to install all of the project's dependencies]
+First you need to install SFML librairies.
+```bash
+sudo apt-get install libsfml-dev
+```
+After just execute the script in the repository to install CSFML libraries.
+```bash
+./build_csfml.sh
+```
 
 ### Quickstart
 
-[Explain how to run this project]
+To run the project:
+```bash
+# build
+make (re)
+# run the game
+./my_defender
+```
 
 ### Usage
 
-[Explain how to use this project]
+#### Customize or create maps
 
-## Get involved
+There is a directory named "maps" and you can add your_maps.txt (some examples in "maps").
+  - '#' Map delimitation
+  - 'R' Road. The ennemies will follow this road.
+  - 'X' Boxes. Decoration.
+  - 'O' Rocks. Decoration.
+  - 'S' Ennemies Spawner.
+  - 'B' Alies's Base.
+  - ' ' Grass.
 
-You're invited to join this project ! Check out the [contributing guide](./CONTRIBUTING.md).
+You just need to put your map in the directory. The program will find it.
 
-If you're interested in how the project is organized at a higher level, please contact the current project manager.
-
-## Our PoC team :heart:
+## Our Team :heart:
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Antonyjin]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[lennyvong]</sub>](https://github.com/MrZalTy)
+| [<img src="https://github.com/lennyvong.png?size=85" width=85><br><sub>[Lenny Vongphouthone]</sub>](https://github.com/lennyvong) | [<img src="https://github.com/Antonyjin.png?size=85" width=85><br><sub>[Antony Jin]</sub>](https://github.com/Antonyjin) 
 | :---: | :---: |
 
 <h2 align=center>
-Organization
+Socials Networks
 </h2>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/company/pocinnovation/mycompany/">
+    <a href="https://www.linkedin.com/in/lenny-vongphouthone/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/pocinnovation/">
+    <a href="https://www.instagram.com/lennyvong/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://twitter.com/PoCInnovation">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://discord.com/invite/Yqq2ADGDS7">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
 </p>
-<p align=center>
-    <a href="https://www.poc-innovation.fr/">
-        <img src="https://img.shields.io/badge/WebSite-1a2b6d?style=for-the-badge&logo=GitHub Sponsors&logoColor=white">
-    </a>
-</p>
-
-> :rocket: Don't hesitate to follow us on our different networks, and put a star 🌟 on `PoC's` repositories
-
-> Made with :heart: by PoC
