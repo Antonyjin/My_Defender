@@ -4,13 +4,13 @@ My_defender is a Tower-Defense project made at Epitech Technology in CSFML.
 
 ## Getting Started
 
-### Installation
+### Dépendances
 
-First you need to install SFML librairies.
+First install SFML librairies.
 ```bash
 sudo apt-get install libsfml-dev
 ```
-After just execute the script in the repository to install CSFML libraries.
+Then execute the script in the repository to install CSFML libraries.
 ```bash
 ./build_csfml.sh
 ```
