@@ -43,7 +43,8 @@ You just need to put your map in the directory. The program will find it.
 ## Our Team :heart:
 
 Developers
-| [<img src="https://github.com/lennyvong.png?size=85" width=85><br><sub>[Lenny Vongphouthone]</sub>](https://github.com/lennyvong) | [<img src="https://github.com/Antonyjin.png?size=85" width=85><br><sub>[Antony Jin]</sub>](https://github.com/Antonyjin) 
+|[<img src="https://github.com/Antonyjin.png?size=85" width=85><br><sub>[Antony Jin]</sub>](https://github.com/Antonyjin) |
+[<img src="https://github.com/lennyvong.png?size=85" width=85><br><sub>[Lenny Vongphouthone]</sub>](https://github.com/lennyvong)
 | :---: | :---: |
 
 <h2 align=center>
