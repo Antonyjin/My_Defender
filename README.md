@@ -38,7 +38,7 @@ There is a directory named "maps" and you can add your_maps.txt (some examples i
   - 'B' Alies's Base.
   - ' ' Grass.
 
-You just need to put your map in the directory. The program will find it.
+You just need to put your map in the directory. The program will find it. The maximum is 6.
 
 ## Our Team :heart:
 
